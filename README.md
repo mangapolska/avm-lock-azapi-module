@@ -1,4 +1,4 @@
-# Azure Management Lock AVM Module
+# Azure Management Lock Module (AVM)
 
 Terraform module provisions an Azure Management Lock at a Resource Group scope compliant with the Azure Verified Modules (AVM) standard and uses the `azapi` provider.
 

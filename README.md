@@ -22,7 +22,7 @@ module "rg_lock" {
 | Name      | Version  |
 | --------- | -------- |
 | terraform | >= 1.12  |
-| azapi     | >= 2.5   |
+| azapi     | ~> 2.5   |
 
 ## Inputs
 
